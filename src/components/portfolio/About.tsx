@@ -21,7 +21,7 @@ const About = () => {
               <div className="relative inline-block">
                 <div className="w-80 h-80 bg-gradient-to-br from-pastel-purple to-pastel-pink rounded-2xl mx-auto md:mx-0 overflow-hidden shadow-xl">
                   <img 
-                    src="https://github.com/GuardianAngel2138/my-portfolio/blob/main/public/img/Untitled-1.png" 
+                    src="../public/img/Untitled-1.png" 
                     alt="Abhinav Krishna S" 
                     className="w-full h-full object-cover"
                   />
